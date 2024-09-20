@@ -1,14 +1,14 @@
 import os
 
-# MUST CHANGE FOR EACH USECASE
-path = "/Users/roccojemilo/Library/Mobile Documents/com~apple~CloudDocs/Madison/Classes/2024 Fall Semester/stat_240/homework"
+# MUST CHANGE FOR EACH USE CASE
+path = "Path/to/destination"
 
-for i in range(1, 16):
+for i in range(1, 100): # number of files with respective names to create
     if i < 10:
         # MUST CHANGE FOR EACH USE CASE
-        os.mkdir(path + "/hw0" + str(i))
+        os.mkdir(path + str(i))
     else:
         # MUST CHANGE FOR EACH USE CASE
-        os.mkdir(path + "/hw" + str(i))
+        os.mkdir(path + str(i))
 
 print("Successfully created directories")
