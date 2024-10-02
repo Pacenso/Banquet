@@ -1,0 +1,273 @@
+
+                    #q1
+                    q1_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q1_df)
+                    q1_df.to_pickle("q1.pkl")
+                    
+                    #q2
+                    q2_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q2_df)
+                    q2_df.to_pickle("q2.pkl")
+                    
+                    #q3
+                    q3_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q3_df)
+                    q3_df.to_pickle("q3.pkl")
+                    
+                    #q4
+                    q4_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q4_df)
+                    q4_df.to_pickle("q4.pkl")
+                    
+                    #q5
+                    q5_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q5_df)
+                    q5_df.to_pickle("q5.pkl")
+                    
+                    #q6
+                    q6_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q6_df)
+                    q6_df.to_pickle("q6.pkl")
+                    
+                    #q7
+                    q7_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q7_df)
+                    q7_df.to_pickle("q7.pkl")
+                    
+                    #q8
+                    q8_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q8_df)
+                    q8_df.to_pickle("q8.pkl")
+                    
+                    #q9
+                    q9_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q9_df)
+                    q9_df.to_pickle("q9.pkl")
+                    
+                    #q10
+                    q10_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q10_df)
+                    q10_df.to_pickle("q10.pkl")
+                    
+                    #q11
+                    q11_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q11_df)
+                    q11_df.to_pickle("q11.pkl")
+                    
+                    #q12
+                    q12_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q12_df)
+                    q12_df.to_pickle("q12.pkl")
+                    
+                    #q13
+                    q13_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q13_df)
+                    q13_df.to_pickle("q13.pkl")
+                    
+                    #q14
+                    q14_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q14_df)
+                    q14_df.to_pickle("q14.pkl")
+                    
+                    #q15
+                    q15_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q15_df)
+                    q15_df.to_pickle("q15.pkl")
+                    
+                    #q16
+                    q16_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q16_df)
+                    q16_df.to_pickle("q16.pkl")
+                    
+                    #q17
+                    q17_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q17_df)
+                    q17_df.to_pickle("q17.pkl")
+                    
+                    #q18
+                    q18_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q18_df)
+                    q18_df.to_pickle("q18.pkl")
+                    
+                    #q19
+                    q19_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q19_df)
+                    q19_df.to_pickle("q19.pkl")
+                    
+                    #q20
+                    q20_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q20_df)
+                    q20_df.to_pickle("q20.pkl")
+                    
+                    #q21
+                    q21_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q21_df)
+                    q21_df.to_pickle("q21.pkl")
+                    
+                    #q22
+                    q22_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q22_df)
+                    q22_df.to_pickle("q22.pkl")
+                    
+                    #q23
+                    q23_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q23_df)
+                    q23_df.to_pickle("q23.pkl")
+                    
+                    #q24
+                    q24_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q24_df)
+                    q24_df.to_pickle("q24.pkl")
+                    
+                    #q25
+                    q25_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q25_df)
+                    q25_df.to_pickle("q25.pkl")
+                    
+                    #q26
+                    q26_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q26_df)
+                    q26_df.to_pickle("q26.pkl")
+                    
+                    #q27
+                    q27_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q27_df)
+                    q27_df.to_pickle("q27.pkl")
+                    
+                    #q28
+                    q28_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q28_df)
+                    q28_df.to_pickle("q28.pkl")
+                    
+                    #q29
+                    q29_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q29_df)
+                    q29_df.to_pickle("q29.pkl")
+                    
+                    #q30
+                    q30_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q30_df)
+                    q30_df.to_pickle("q30.pkl")
+                    
+                    #q31
+                    q31_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q31_df)
+                    q31_df.to_pickle("q31.pkl")
+                    
+                    #q32
+                    q32_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q32_df)
+                    q32_df.to_pickle("q32.pkl")
+                    
+                    #q33
+                    q33_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q33_df)
+                    q33_df.to_pickle("q33.pkl")
+                    
+                    #q34
+                    q34_df = pd.read_sql("""
+                        SELECT *
+                        FROM
+                    """, conn)
+                    display(q34_df)
+                    q34_df.to_pickle("q34.pkl")
+                    
